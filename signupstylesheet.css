@@ -1,0 +1,43 @@
+#signup-page{
+padding-top: 30px;
+}
+
+#signup-consent{
+text-align:center;
+font-size:18px;
+margin-left:15%; margin-right:15%;
+border-radius:30px;
+padding: 1.5em;
+background-color: #1B2226;
+color: white;
+}
+
+#signup-register{
+text-align:center;
+padding-top: 30px;
+line-height:2em;
+padding-bottom: 20px;
+}
+
+#signup-register label
+{font-weight: bold;
+display:block;
+padding-bottom:10px;}
+
+#signup-register input[type="text"], #signup-register input[type="email"], #signup-register input[type="password"]
+{padding: 4px;
+width:40%;
+font-size:20px;
+color: white;
+border: none;
+background:#0389B0;
+}
+
+#signup-register input[type="submit"]
+{text-align:center;
+background:#1B2226;
+color: white;
+padding: 15px; 30px;
+border:none;
+border-radius:50px;
+}
